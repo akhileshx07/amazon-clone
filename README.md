@@ -3,7 +3,7 @@
 A fully responsive Amazon homepage replica built using HTML5 and CSS3.
 
 ## 🚀 Live Demo
-👉 https://akhileshx07.github.io/amazon-clone/
+👉 https://amazon-clone-akhilesh.netlify.app
 
 ## 📌 Features
 - Responsive Navbar
